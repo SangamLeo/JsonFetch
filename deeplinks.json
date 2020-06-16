@@ -1,0 +1,12 @@
+{
+  "DeepLinkNav": [
+    {
+      "navCaption": "Cloud",
+      "deppLink": "https://cloud.home.mendix.com/index.html"
+    },
+    {
+       "navCaption": "Sprintr",
+      "deppLink": "https://sprintr.home-test.mendix.com/link/myapps"
+    }
+    ]
+}
